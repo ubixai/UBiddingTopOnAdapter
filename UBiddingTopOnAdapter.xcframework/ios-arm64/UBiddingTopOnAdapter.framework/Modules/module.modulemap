@@ -1,0 +1,6 @@
+framework module UBiddingTopOnAdapter {
+  umbrella header "UBiddingTopOnAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
