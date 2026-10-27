@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UBiddingTopOnAdapter'
-  s.version          = '6.5.73.1'
+  s.version          = '6.5.73.2'
   s.summary          = 'UBiddingTopOnAdapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
   s.author           = { 'zhugq' => 'guoqiang.zhu@ubixai.com' }
